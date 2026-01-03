@@ -12,7 +12,7 @@ The system utilizes **Inductive Power Transfer (IPT)**. It converts solar DC ene
 ### Power Flow Logic
 1.  **Generation:** Solar PV Array captures energy -> MPPT Controller optimizes output.
 2.  **Storage:** Energy is stored in a Battery Bank (for night/cloudy operation).
-3.  **Transmission (Roadside):** * DC -> High-Frequency Inverter.
+3.  **Transmission (Roadside):**  DC -> High-Frequency Inverter.
     * Primary Coil (Transmitter) creates an oscillating magnetic field.
 4.  **Reception (Vehicle Side):**
     * Secondary Coil (Receiver) captures magnetic flux.
@@ -46,7 +46,7 @@ graph TD
 **V2G (Vehicle-to-Grid):** Conceptual integration where EVs can discharge excess power back to the grid during peak loads.
 
 ## 📂 Documentation
-*'Solar based on road charging station.pdf': Full technical report covering circuit topology, efficiency calculations, and environmental impact analysis.
+Solar based on road charging station.pdf: Full technical report covering circuit topology, efficiency calculations, and environmental impact analysis.
 
 ## 👤 Author
 Kesava Satish Boppana
