@@ -40,3 +40,13 @@ graph TD
         BMS --> EV_Bat["EV Battery"]
     end
 ```
+## 🧠 Key Technologies Analyzed
+**Inductive Coupling:** Using resonant magnetic fields to transfer energy across an air gap with minimized losses.
+**Maximum Power Point Tracking (MPPT):** Algorithms used to maximize energy extraction from the solar array under varying sunlight conditions.
+**V2G (Vehicle-to-Grid):** Conceptual integration where EVs can discharge excess power back to the grid during peak loads.
+
+## 📂 Documentation
+*'Solar based on road charging station.pdf': Full technical report covering circuit topology, efficiency calculations, and environmental impact analysis.
+
+## 👤 Author
+Kesava Satish Boppana
